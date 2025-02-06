@@ -1,0 +1,1 @@
+This project analyzes customer sales data by performing the Shapiro-Wilk normality test on sales data and visualizing the distribution of the sales data using Kernel Density Estimation (KDE) plots. The results are saved in a new Excel file, with the Shapiro-Wilk test results and KDE plots for each customer
